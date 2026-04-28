@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student at MIT,Indore from B.Tech CSE background . currently I am in final year and I have knowledge about C/C++, python, DSA and Frotend development in React.Now I am learning Node.js development. After Node.js I will surely learn cloud technology right now I have light knowledge of AWS.
+I am a student at MIT,Indore from B.Tech CSE background . currently I am in final year and I have knowledge about C/C++, python, DSA and Frotend development in React.Now I am learning Node.js development. After Node.js I will surely learn cloud technology right now I have light knowledge of AWS .
 
 
 ## 🌐 Socials:
